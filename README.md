@@ -52,5 +52,4 @@ The second task for Smart Method Summer Training Summer Program, for Interntet o
  
  # Week 6 Data Engineer
  
- 1.
- 2.
+ 1. Extract Transform Load
