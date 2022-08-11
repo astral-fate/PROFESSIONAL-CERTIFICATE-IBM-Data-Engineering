@@ -40,6 +40,11 @@ then we can extract the files just fine
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/63984422/184155839-dbc762f7-ccd7-4141-a1a3-b471101fdcae.png">
 
 
+if we didn't install Git we will face error sayying: 
+
+            'unzip' is not recognized as an internal or external command, operable program or batch file
+
+
 There's another methods if we want to work with pakages, we have to first import a pakage named zipfile
 
          import zipfile
