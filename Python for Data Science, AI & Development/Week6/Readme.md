@@ -1,4 +1,12 @@
 
+## Setting you local machine
+
+1. [Installing Wget](#Installing-Wget)
+
+
+
+
+# Installing Wget
 make sure to install wget to work with importing files
 
 https://eternallybored.org/misc/wget/
@@ -18,3 +26,6 @@ and wooraa!!
 same thing with zip & unzip
 
 <img width="881" alt="image" src="https://user-images.githubusercontent.com/63984422/184115908-e2d02e5d-da85-4aff-8d8d-b61e69adaea4.png">
+
+
+https://anaconda.org/conda-forge/unzip
