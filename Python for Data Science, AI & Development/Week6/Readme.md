@@ -41,7 +41,10 @@ then we can write the follwoing function to extract the file
                    
 
 
-another method is by trying to download  7zip pakage from anaconda environment 
+another method is by trying to download  7zip pakage from anaconda environmentm by this command
+
+           
+               conda install 7zip
 
 <img width="881" alt="image" src="https://user-images.githubusercontent.com/63984422/184115908-e2d02e5d-da85-4aff-8d8d-b61e69adaea4.png">
 
