@@ -35,3 +35,10 @@ https://anaconda.org/conda-forge/unzip
 
 
 ![image](https://user-images.githubusercontent.com/63984422/184123356-cef9bcf8-8a61-4cef-9d03-795dc795b8ba.png)
+
+
+# Refences
+
+https://www.youtube.com/watch?v=SE1nDEjER6Y&t=21s
+https://anaconda.org/bioconda/p7zip
+https://www.youtube.com/watch?v=7_o_kjG1Sfs
