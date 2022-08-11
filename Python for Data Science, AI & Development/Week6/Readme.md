@@ -24,7 +24,7 @@ and wooraa!!
  <img width="892" alt="image" src="https://user-images.githubusercontent.com/63984422/184113712-d5942e8a-a7dd-4ab4-93c1-8b60e45ebbbe.png">
 
 
-#Installing 7zip
+# Installing 7zip
 
 same thing with zip & unzip
 
