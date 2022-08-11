@@ -48,8 +48,8 @@ another method is by trying to download  7zip pakage from anaconda environmentm 
 
 <img width="881" alt="image" src="https://user-images.githubusercontent.com/63984422/184115908-e2d02e5d-da85-4aff-8d8d-b61e69adaea4.png">
 
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/63984422/184152586-212ee6cf-a069-42db-9d75-c9a2ab2b9674.png">
 
-https://anaconda.org/conda-forge/unzip
 
 
 ![image](https://user-images.githubusercontent.com/63984422/184123356-cef9bcf8-8a61-4cef-9d03-795dc795b8ba.png)
@@ -60,3 +60,5 @@ https://anaconda.org/conda-forge/unzip
 1. https://www.youtube.com/watch?v=SE1nDEjER6Y&t=21s
 2. https://anaconda.org/bioconda/p7zip
 3. https://www.youtube.com/watch?v=7_o_kjG1Sfs
+4. https://anaconda.org/conda-forge/unzip
+
