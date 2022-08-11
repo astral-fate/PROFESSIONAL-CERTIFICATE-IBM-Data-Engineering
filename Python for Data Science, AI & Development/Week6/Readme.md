@@ -13,3 +13,8 @@ and wooraa!!
  now we can work it out in our Jubyter notebook
  
  <img width="892" alt="image" src="https://user-images.githubusercontent.com/63984422/184113712-d5942e8a-a7dd-4ab4-93c1-8b60e45ebbbe.png">
+
+
+same thing with zip & unzip
+
+<img width="881" alt="image" src="https://user-images.githubusercontent.com/63984422/184115908-e2d02e5d-da85-4aff-8d8d-b61e69adaea4.png">
