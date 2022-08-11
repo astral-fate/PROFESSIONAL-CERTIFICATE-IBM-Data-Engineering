@@ -39,6 +39,6 @@ https://anaconda.org/conda-forge/unzip
 
 # Refences
 
-https://www.youtube.com/watch?v=SE1nDEjER6Y&t=21s
-https://anaconda.org/bioconda/p7zip
-https://www.youtube.com/watch?v=7_o_kjG1Sfs
+1. https://www.youtube.com/watch?v=SE1nDEjER6Y&t=21s
+2. https://anaconda.org/bioconda/p7zip
+3. https://www.youtube.com/watch?v=7_o_kjG1Sfs
