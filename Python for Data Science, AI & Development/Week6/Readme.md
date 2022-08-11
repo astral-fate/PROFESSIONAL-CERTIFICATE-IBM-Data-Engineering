@@ -26,7 +26,22 @@ and wooraa!!
 
 # Installing 7zip
 
-same thing with zip & unzip
+
+
+we have to first import a pakage named zipfile
+
+         import zipfile
+         
+         
+then we can write the follwoing function to extract the file 
+
+        
+           with zipfile.ZipFile("source.zip","r") as zip_ref:
+                   zip_ref.extractall("targetdir")
+                   
+
+
+another method is by trying to download  7zip pakage from anaconda environment 
 
 <img width="881" alt="image" src="https://user-images.githubusercontent.com/63984422/184115908-e2d02e5d-da85-4aff-8d8d-b61e69adaea4.png">
 
