@@ -2,7 +2,7 @@
 ## Setting you local machine
 
 1. [Installing Wget](#Installing-Wget)
-2. [Installing 7zip] (#Installing-7zip)
+2. [Installing 7zip](#Installing-7zip)
 
 
 
