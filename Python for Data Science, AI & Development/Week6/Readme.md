@@ -2,7 +2,7 @@
 ## Setting you local machine
 
 1. [Installing Wget](#Installing-Wget)
-2. [Installing 7zip](#Installing-7zip)
+2. [Installing Git](#Installing-Git)
 
 
 
@@ -24,11 +24,23 @@ and wooraa!!
  <img width="892" alt="image" src="https://user-images.githubusercontent.com/63984422/184113712-d5942e8a-a7dd-4ab4-93c1-8b60e45ebbbe.png">
 
 
-# Installing 7zip
+# Installing Git
 
 
+to work with zip/unzip command, we have to install Git using this command 
 
-we have to first import a pakage named zipfile
+
+       conda install git
+       
+<img width="767" alt="image" src="https://user-images.githubusercontent.com/63984422/184155684-e6f0b4af-e00c-4dc5-adeb-50f37c6c0f35.png">
+
+
+then we can extract the files just fine 
+
+<img width="763" alt="image" src="https://user-images.githubusercontent.com/63984422/184155839-dbc762f7-ccd7-4141-a1a3-b471101fdcae.png">
+
+
+There's another methods if we want to work with pakages, we have to first import a pakage named zipfile
 
          import zipfile
          
@@ -61,4 +73,5 @@ another method is by trying to download  7zip pakage from anaconda environmentm 
 2. https://anaconda.org/bioconda/p7zip
 3. https://www.youtube.com/watch?v=7_o_kjG1Sfs
 4. https://anaconda.org/conda-forge/unzip
+
 
