@@ -8,6 +8,16 @@
 
 
 # Installing Wget
+wget is very helpful tool, it helps u import any set of data from any link and download it and work with it.
+we can import cvs and JSON files and import them with wget. 
+
+in this site, it provides us with number of JSON data that we can import using wget
+
+
+https://jsonplaceholder.typicode.com/
+
+
+
 make sure to install wget to work with importing files
 
 https://eternallybored.org/misc/wget/
