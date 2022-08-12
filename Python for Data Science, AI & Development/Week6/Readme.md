@@ -88,5 +88,5 @@ another method is by trying to download  7zip pakage from anaconda environmentm 
 2. https://anaconda.org/bioconda/p7zip
 3. https://www.youtube.com/watch?v=7_o_kjG1Sfs
 4. https://anaconda.org/conda-forge/unzip
-
+5. https://notebooks.githubusercontent.com/view/ipynb?color_mode=auto&commit=f5441c90fe1994c4b7d025de76b331cb0155f149&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f676973742f417261736852617374692f38326265656465643830636131376234663639613061313835636430366564392f7261772f663534343163393066653139393463346237643032356465373662333331636230313535663134392f66696e616c5f61737369676e6d656e742e6970796e622e6970796e62&logged_in=false&nwo=ArashRasti%2F82beeded80ca17b4f69a0a185cd06ed9&path=final_assignment.ipynb.ipynb&repository_id=114696061&repository_type=Gist
 
