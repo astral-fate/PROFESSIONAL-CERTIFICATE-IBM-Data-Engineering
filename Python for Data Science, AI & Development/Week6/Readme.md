@@ -82,6 +82,10 @@ another method is by trying to download  7zip pakage from anaconda environmentm 
 ![image](https://user-images.githubusercontent.com/63984422/184123356-cef9bcf8-8a61-4cef-9d03-795dc795b8ba.png)
 
 
+
+you can use notebooj in vs code by going to view > command > new jubyter notebook
+<img width="445" alt="image" src="https://user-images.githubusercontent.com/63984422/186650457-2f254d0f-edee-4059-bed0-d70bf5e31df0.png">
+
 # Refences
 
 1. https://www.youtube.com/watch?v=SE1nDEjER6Y&t=21s
